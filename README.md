@@ -3,6 +3,6 @@
 <br>
 The motivation for this came from a wish to solve newspaper puzzles quicker. <br>
 To run, simply run the following command in the terminal - <br>
-`python unscrambler.py`
-<br>
+```python unscrambler.py```
+<br><br>
 ![image](/screenshot.png "Screenshot of the program")
